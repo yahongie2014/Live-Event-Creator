@@ -2,10 +2,6 @@
 #Live Event Creator-Calendar#
 ##################
 
-#Official Documentation
-
--Documentation for the framework can be found on the [Nodejs website](https://nodejs.org/api/)
-
 # How To start
 >first :-  Import Db and edit config db.config your db 
 >After make migrate db
