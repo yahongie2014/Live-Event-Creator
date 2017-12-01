@@ -7,42 +7,26 @@
 -Documentation for the framework can be found on the [Nodejs website](https://nodejs.org/api/)
 
 # How To start
->first:
+>first :-  Import Db and edit config db.config your db 
+>After make migrate db
 >open cmd or git and type :
 >php -S 127.0.1.1:8000
 
->After install 
-
-open Cmd in project file then write following command
-
->npm install
-
-#moduel will install dependencies for nodejs
-
-#check package.json to start application
-
-#after install all dependencies
-
-#check nodejs version by that command
-
->npm -v
-
-#then type in cmd project file 
-
->npm start
-
 #will show u 
 ---------------------------------
-> node app.js
+> PHP 5.6.15 Development Server started at Fri Dec 01 19:11:46 2017
+>Listening on http://127.0.1.1:8000
+>Document root is C:\xampp\htdocs\hello
+?Press Ctrl-C to quit.
 
->Express server listening on port 5000 in development mode 
+>Express server listening on port 8000  development mode 
 ---------------------------------
 #After that open browser and type 
 
-http://localhost:5000
+http://localhost:8000
 
 >Thank u
 
 >License
 
->The Reactjs framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+>Develope by Dev Ahmed S. Ahmed [coder79](http://coder79.me).
