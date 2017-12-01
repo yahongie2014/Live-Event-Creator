@@ -23,7 +23,7 @@
 ---------------------------------
 #After that open browser and type 
 
-http://localhost:8000
+http://127.0.1.1:8000
 
 >Thank u
 
